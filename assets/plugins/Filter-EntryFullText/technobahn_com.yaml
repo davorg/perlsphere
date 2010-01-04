@@ -1,0 +1,4 @@
+#upgrade http://www.technobahn.com/index2.xml
+author: Masafumi Otsune
+handle: http://www\.technobahn\.com/cgi-bin/news/read2\?f=\d+
+extract: <td bgcolor="#ffffff" height="10" valign=top>(.*?)<div id="layer-zoomin" style="position:absolute; z-index:2; visibility: hidden">

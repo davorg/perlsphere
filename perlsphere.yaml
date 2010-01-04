@@ -1,0 +1,116 @@
+global:
+  log:
+    level: error
+  assets_path: /var/www/perlsphere.net/assets
+
+plugins:
+  - module: Subscription::Config
+    config:
+      feed:
+        - url:   http://aaroncrane.co.uk/tag/perl/feed.atom
+          title: AaronCrane.co.uk
+        - url:   http://acme.vox.com/library/posts/tags/perl/atom-full.xml
+        - url:   http://perlisalive.com/weblog/feeds/ajt
+          title: ajt
+        - url:   http://use.perl.org/~Alias/journal/rss
+        - url:   http://use.perl.org/~Aristotle/journal/rss
+#        - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=2sBjTfo53RGoH4IRo_NLYQ&_render=rss
+#          title: B10[mg]
+        - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=ylxaLesS3hGLuL_IPm7D0g&_render=rss
+        - url:   http://www.cattlegrid.info/mt/mt-search.cgi?search=perl&Template=feed&IncludeBlogs=1
+          title: The Cattle Grid
+        - url:   http://use.perl.org/~chorny/journal/
+        - url:   http://use.perl.org/~ChrisDolan/journal/rss
+        - url:   http://code-and-hacks.blogspot.com/feeds/posts/default
+        - url:   http://www.dagolden.com/index.php/feed/
+        - url:   http://feeds2.feedburner.com/DamienLearnsPerl
+        - url:   http://www.cantrell.org.uk/david/journal/index.pl/keyword_perl?format=rss
+        - url:   http://use.perl.org/~drhyde/journal/rss
+        - url:   http://leto.net/dukeleto.pl/atom.xml
+        - url:   http://downlode.org/Creative/Writing/MT/mt-search.cgi?tag=Perl&Template=feed&IncludeBlogs=2
+          title: Earle's Notebook
+#        - url:   http://babyl.dyndns.org/techblog/atom.xml
+        - url:   http://blog.nix.is/tag/perl/feed
+          title: Hinrik's blog
+        - url:   http://perldition.org/feeds/category/Perl/atom
+          title: /home/rafl
+        - url:   http://blog.urth.org/programming/atom.xml
+          title: House Absolute(ly Pointless)
+        - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
+          title: Jérôme Quelin
+        - url:   http://jjnapiorkowski.vox.com/library/posts/atom-full.xml
+        - url:   http://jonasbn.livejournal.com/data/rss
+        - url:   http://greenokapi.net/blog/tag/perl/feed/
+          title: Just another lambdabananacamel
+        - url:   http://leto.net/code/Math-GSL/atom.xml
+        - url:   http://perl.bristolbath.org/blog/lyle/atom.xml
+          title: Lyle's Perl Blog
+        - url:   http://mark.stosberg.com/blog/perl/atom.xml
+        - url:   http://use.perl.org/~miyagawa/journal/rss
+        - url:   http://www.modernperlbooks.com/mt/atom.xml
+        - url:   http://blogs.perl.org/users/leo_lapworth/atom.xml
+          title: Ranguard's blog
+        - url:   http://blog.phoenixtrap.com/feeds/posts/default/-/Perl
+        - url:   http://blog.woobling.org/feeds/posts/default
+        - url:   http://nxadm.wordpress.com/tag/perl/feed/
+        - url:   http://onionstand.blogspot.com/feeds/posts/default?alt=rss
+        - url:   http://blogs.perl.org/users/ovid/atom.xml
+        - url:   http://blog.patspam.com/category/comp/perl/feed
+          title: patspam.com
+        - url:   http://feeds.feedburner.com/PerlBuzz
+        - url:   http://perlhackerpainter.blogspot.com/feeds/posts/default
+        - url:   http://feeds.feedburner.com/PerlipseDevelopment
+        - url:   http://pjf.id.au/blog/index.rss?tag=perl
+        - url:   http://perlgeek.de/blog-en/
+        - url:   http://perlid.blogspot.com/feeds/posts/default
+        - url:   http://use.perl.org/~Phred/journal/rss
+        - url:   http://proudtouseperl.com/atom.xml
+        - url:   http://rjbs.manxome.org/rubric/entries/tags/perl?format=rss
+          title: Ricardo Signes
+        - url:   http://sartak.blogspot.com/feeds/posts/default
+        - url:   http://use.perl.org/~schwern/journal/rss
+        - url:   http://www.shlomifish.org/me/blogs/agg/shlomif-perl-aggregate.xml
+          title: Shlomi Fish
+        - url:   http://use.perl.org/~tomhukins/journal/rss
+        - url:   http://transfixedbutnotdead.com/tag/perl/feed/
+          title: transfixed but not dead!
+        - url:   http://feeds.feedburner.com/Webquills
+        - url:   http://labs.kraih.com/blog/atom/perl/atom.xml
+        - url:   http://blogs.perl.org/users/steffen_mueller/atom.xml
+        - url:   http://use.perl.org/~xsawyerx/journal/rss
+        - url:   http://zerothorder.blogspot.com/feeds/posts/default
+        - url:   http://blog.laufeyjarson.com/category/perl/feed/
+        - url:   http://feed.theregister.co.uk/atom?q=perl&a=Aaron+Crane
+        - url:   http://damien.krotkine.com/the-player-of-games/atom.xml
+        - url:   http://use.perl.org/~sir_lichtkind/journal/rss
+          title: Herbert Breunung
+        - url:   http://perlgeek.de/blog-en/index.rss
+        - url:   http://ahmadzawawi.blogspot.com/feeds/posts/default
+        - url:   http://blog.weftsoar.net/feeds/posts/default?alt=rss
+        - url:   http://beta.blogger.com/feeds/3723948418026603019/posts/full/-/perl
+        - url:   http://csjewell.dreamwidth.org/data/rss
+        - url:   http://perlhacks.com/atom.xml
+        - url:   http://www.dereferenced.com/feed/
+        - url:   http://ldami.blogspot.com/feeds/posts/default
+        - url:   http://use.perl.org/~jj/journal/rss
+        - url:   http://mechanicalrevolution.com/feed.xml
+        - url:   http://www.openswartz.com/feed/
+        - url:   http://mdxionsoftware.blogspot.com/feeds/posts/default
+        - url:   http://blog.ryan52.info/?feed=rss2&tag=perl
+        - url:   http://www.dereferenced.com/feed/atom/
+        - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
+        - url:   http://log.perl.org/atom.xml
+          title: Perl.org NOC
+        - url:   http://news.perlfoundation.org/atom.xml
+          title: Perl Foundation News
+
+  # Load 'Bundle' planet plugins
+  - module: Bundle::Planet
+    config:
+      duration: 10 days
+      title: Perlsphere
+      description: The Perl firehose! The Web's biggest collection of Perl blogs.<br />If you'd like your Perl blog or tech blog's Perl category to appear here, send mail to &#108;&#101;&#111;&#64;&#99;&#117;&#99;&#107;&#111;&#111;&#46;&#111;&#114;&#103;.
+      dir: /var/www/perlsphere.net/
+      url: http://perlsphere.net/
+      theme: sixapart-std
+      stylesheet: http://perlsphere.net/style.css

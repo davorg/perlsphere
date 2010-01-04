@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<opml version="1.0">
+<head>
+<title>Perlsphere</title>
+<dateCreated>Mon, 04 Jan 2010 19:12:54 -0000</dateCreated>
+<ownerName />
+</head>
+<body>
+<outline text="Subscriptions">
+<outline title="AaronCrane.co.uk" htmlUrl="http://aaroncrane.co.uk/tag/perl/" text="Aaron Crane" type="rss" xmlUrl="http://aaroncrane.co.uk/tag/perl/feed.atom" />
+<outline title="acme's bits" htmlUrl="http://acme.vox.com/library/posts/tags/perl/page/1/" text="acme" type="rss" xmlUrl="http://acme.vox.com/library/posts/tags/perl/atom-full.xml" />
+<outline title="ajt" htmlUrl="http://perlisalive.com/users/ajt/weblog" text="Adam Trickett (ajt)" type="rss" xmlUrl="http://perlisalive.com/weblog/feeds/ajt" />
+<outline title="Alias's Journal" htmlUrl="http://use.perl.org/~Alias/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~Alias/journal/rss" />
+<outline title="Aristotle's Journal" htmlUrl="http://use.perl.org/~Aristotle/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~Aristotle/journal/rss" />
+<outline title="Blog of Gábor Szabó" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=ylxaLesS3hGLuL_IPm7D0g" text="Blog of Gábor Szabó" type="rss" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ylxaLesS3hGLuL_IPm7D0g&amp;_render=rss" />
+<outline title="The Cattle Grid" htmlUrl="http://www.cattlegrid.info/mt/mt-search.cgi?IncludeBlogs=1&amp;search=perl" text="Michele Beltrame" type="rss" xmlUrl="http://www.cattlegrid.info/mt/mt-search.cgi?search=perl&amp;Template=feed&amp;IncludeBlogs=1" />
+<outline title="chorny's Journal" htmlUrl="http://use.perl.org/~chorny/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~chorny/journal/rss" />
+<outline title="ChrisDolan's Journal" htmlUrl="http://use.perl.org/~ChrisDolan/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~ChrisDolan/journal/rss" />
+<outline title="Code and Hacks" htmlUrl="http://code-and-hacks.blogspot.com/" text="Mark" type="rss" xmlUrl="http://code-and-hacks.blogspot.com/feeds/posts/default" />
+<outline title="dagolden" htmlUrl="http://www.dagolden.com" text="dagolden" type="rss" xmlUrl="http://www.dagolden.com/index.php/feed/" />
+<outline title="Damien Learns Perl" htmlUrl="http://damienlearnsperl.blogspot.com/" text="Damien" type="rss" xmlUrl="http://feeds2.feedburner.com/DamienLearnsPerl" />
+<outline title="Dave's Free Press" htmlUrl="http://www.cantrell.org.uk/david/journal/index.pl" text=" david " type="rss" xmlUrl="http://www.cantrell.org.uk/david/journal/index.pl/keyword_perl?format=rss" />
+<outline title="drhyde's Journal" htmlUrl="http://use.perl.org/~drhyde/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~drhyde/journal/rss" />
+<outline title="dukeleto.pl" htmlUrl="http://leto.net/dukeleto.pl/" text="Jonathan Leto" type="rss" xmlUrl="http://leto.net/dukeleto.pl/atom.xml" />
+<outline title="Earle's Notebook" htmlUrl="http://downlode.org/Creative/Writing/MT/mt-search.cgi?IncludeBlogs=2&amp;search=Perl" text="Earle's Notebook" type="rss" xmlUrl="http://downlode.org/Creative/Writing/MT/mt-search.cgi?tag=Perl&amp;Template=feed&amp;IncludeBlogs=2" />
+<outline title="Hinrik's blog" htmlUrl="http://blog.nix.is" text="Hinrik Örn Sigurðsson" type="rss" xmlUrl="http://blog.nix.is/tag/perl/feed" />
+<outline title="/home/rafl" htmlUrl="http://perldition.org/" text="Florian Ragwitz" type="rss" xmlUrl="http://perldition.org/feeds/category/Perl/atom" />
+<outline title="House Absolute(ly Pointless)" htmlUrl="http://blog.urth.org/" text="Dave Rolsky" type="rss" xmlUrl="http://blog.urth.org/programming/atom.xml" />
+<outline title="Jérôme Quelin" htmlUrl="http://jquelin.blogspot.com/" text="jquelin@gmail.com (Jérôme Quelin)" type="rss" xmlUrl="http://jquelin.blogspot.com/feeds/posts/default?alt=rss" />
+<outline title="John Napiorkowski’s Perl Development Blog" htmlUrl="http://jjnapiorkowski.vox.com/library/posts/page/1/" text="John Napiorkowski" type="rss" xmlUrl="http://jjnapiorkowski.vox.com/library/posts/atom-full.xml" />
+<outline title="jonasbn" htmlUrl="http://jonasbn.livejournal.com/" text="jonasbn" type="rss" xmlUrl="http://jonasbn.livejournal.com/data/rss" />
+<outline title="Just another lambdabananacamel" htmlUrl="http://greenokapi.net/blog" text="osfameron" type="rss" xmlUrl="http://greenokapi.net/blog/tag/perl/feed/" />
+<outline title="Math::GSL : Perl  GNU Scientific Library" htmlUrl="http://leto.net/code/Math-GSL/" text="Math::GSL : Perl  GNU Scientific Library" type="rss" xmlUrl="http://leto.net/code/Math-GSL/atom.xml" />
+<outline title="Lyle's Perl Blog" htmlUrl="http://perl.bristolbath.org/blog/lyle/" text="Lyle" type="rss" xmlUrl="http://perl.bristolbath.org/blog/lyle/atom.xml" />
+<outline title="Mark Stosberg" htmlUrl="http://mark.stosberg.com/blog/" text="Mark Stosberg" type="rss" xmlUrl="http://mark.stosberg.com/blog/perl/atom.xml" />
+<outline title="miyagawa's Journal" htmlUrl="http://use.perl.org/~miyagawa/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~miyagawa/journal/rss" />
+<outline title="Modern Perl Books, a Modern Perl Blog" htmlUrl="http://www.modernperlbooks.com/mt/" text="chromatic" type="rss" xmlUrl="http://www.modernperlbooks.com/mt/atom.xml" />
+<outline title="Ranguard's blog" htmlUrl="http://blogs.perl.org/users/leo_lapworth/" text="Ranguard" type="rss" xmlUrl="http://blogs.perl.org/users/leo_lapworth/atom.xml" />
+<outline title="More Boom In The Room" htmlUrl="http://blog.phoenixtrap.com/search/label/Perl" text="Mark Gardner" type="rss" xmlUrl="http://blog.phoenixtrap.com/feeds/posts/default/-/Perl" />
+<outline title="nothingmuch's perl blog" htmlUrl="http://blog.woobling.org/" text="nothingmuch" type="rss" xmlUrl="http://blog.woobling.org/feeds/posts/default" />
+<outline title="*n*x » Perl" htmlUrl="http://nxadm.wordpress.com" text="claudio" type="rss" xmlUrl="http://nxadm.wordpress.com/tag/perl/feed/" />
+<outline title="The Onion Stand" htmlUrl="http://onionstand.blogspot.com/" text="noreply@blogger.com (garu)" type="rss" xmlUrl="http://onionstand.blogspot.com/feeds/posts/default?alt=rss" />
+<outline title="Ovid's Journal" htmlUrl="http://use.perl.org/~Ovid/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~Ovid/journal/rss" />
+<outline title="patspam.com" htmlUrl="http://blog.patspam.com" text="Patrick" type="rss" xmlUrl="http://blog.patspam.com/category/comp/perl/feed" />
+<outline title="Perlbuzz" htmlUrl="http://perlbuzz.com/" text="Andy Lester" type="rss" xmlUrl="http://feeds.feedburner.com/PerlBuzz" />
+<outline title="The Perl Hacker Painter" htmlUrl="http://perlhackerpainter.blogspot.com/" text="The Perl Hacker Painter" type="rss" xmlUrl="http://perlhackerpainter.blogspot.com/feeds/posts/default" />
+<outline title="Perlipse Development" htmlUrl="http://perlipse.blogspot.com/" text="Jae Gangemi" type="rss" xmlUrl="http://feeds.feedburner.com/PerlipseDevelopment" />
+<outline title="PJF's Journal" htmlUrl="http://pjf.id.au/blog/" text="PJF's Journal" type="rss" xmlUrl="http://pjf.id.au/blog/index.rss?tag=perl" />
+<outline title="Perlgeek.de   " htmlUrl="http://perlgeek.de/blog-en/" text="Moritz Lenz" type="rss" xmlUrl="http://perlgeek.de/blog-en/index.rss" />
+<outline title="Perl Ideas" htmlUrl="http://perlid.blogspot.com/" text="kixx" type="rss" xmlUrl="http://perlid.blogspot.com/feeds/posts/default" />
+<outline title="Phred's Journal" htmlUrl="http://use.perl.org/~Phred/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~Phred/journal/rss" />
+<outline title="Proud to Use Perl" htmlUrl="http://proudtouseperl.com/" text="Proud to Use Perl" type="rss" xmlUrl="http://proudtouseperl.com/atom.xml" />
+<outline title="Ricardo Signes" htmlUrl="http://rjbs.manxome.org/rubric" text="rjbs" type="rss" xmlUrl="http://rjbs.manxome.org/rubric/entries/tags/perl?format=rss" />
+<outline title="sartak" htmlUrl="http://blog.sartak.org/" text="Shawn M Moore" type="rss" xmlUrl="http://blog.sartak.org/feeds/posts/default" />
+<outline title="schwern's Journal" htmlUrl="http://use.perl.org/~schwern/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~schwern/journal/rss" />
+<outline title="Shlomi Fish" htmlUrl="http://shlomif.livejournal.com/" text="shlomif@iglu.org.il (Shlomi Fish)" type="rss" xmlUrl="http://www.shlomifish.org/me/blogs/agg/shlomif-perl-aggregate.xml" />
+<outline title="tomhukins's Journal" htmlUrl="http://use.perl.org/~tomhukins/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~tomhukins/journal/rss" />
+<outline title="transfixed but not dead!" htmlUrl="http://transfixedbutnotdead.com" text="draegtun" type="rss" xmlUrl="http://transfixedbutnotdead.com/tag/perl/feed/" />
+<outline title="Webquills.net" htmlUrl="http://www.webquills.net/" text="Vince Veselosky" type="rss" xmlUrl="http://feeds.feedburner.com/Webquills" />
+<outline title="Sebastian Riedel - Perl and the Web" htmlUrl="http://labs.kraih.com/blog/" text="Sebastian" type="rss" xmlUrl="http://labs.kraih.com/blog/atom/perl/atom.xml" />
+<outline title="Steffen Mueller" htmlUrl="http://blogs.perl.org/users/steffen_mueller/" text="Steffen Mueller" type="rss" xmlUrl="http://blogs.perl.org/users/steffen_mueller/atom.xml" />
+<outline title="xsawyerx's Journal" htmlUrl="http://use.perl.org/~xsawyerx/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~xsawyerx/journal/rss" />
+<outline title="zeroth order" htmlUrl="http://zerothorder.blogspot.com/" text="brunov" type="rss" xmlUrl="http://zerothorder.blogspot.com/feeds/posts/default" />
+<outline title="Laufeyjarson writes... » Perl" htmlUrl="http://blog.laufeyjarson.com" text="Laufeyjarson" type="rss" xmlUrl="http://blog.laufeyjarson.com/category/perl/feed/" />
+<outline title="The Register articles about perl by Aaron Crane" htmlUrl="http://search.theregister.co.uk/?q=perl&amp;author=Aaron+Crane" text="Team Register" type="rss" xmlUrl="http://feed.theregister.co.uk/atom?q=perl&amp;a=Aaron+Crane" />
+<outline title="The Player Of Games" htmlUrl="http://damien.krotkine.com/the-player-of-games/" text="dams" type="rss" xmlUrl="http://damien.krotkine.com/the-player-of-games/atom.xml" />
+<outline title="Herbert Breunung" htmlUrl="http://use.perl.org/~sir_lichtkind/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~sir_lichtkind/journal/rss" />
+<outline title="Perlgeek.de   " htmlUrl="http://perlgeek.de/blog-en/" text="Moritz Lenz" type="rss" xmlUrl="http://perlgeek.de/blog-en/index.rss" />
+<outline title="Ahmad M. Zawawi (azawawi)" htmlUrl="http://ahmadzawawi.blogspot.com/" text="Ahmad M. Zawawi" type="rss" xmlUrl="http://ahmadzawawi.blogspot.com/feeds/posts/default" />
+<outline title="~hdp" htmlUrl="http://blog.weftsoar.net/" text="hdp@cpan.org (Hans Dieter Pearcey)" type="rss" xmlUrl="http://blog.weftsoar.net/feeds/posts/default?alt=rss" />
+<outline title="MY RTFM" htmlUrl="http://myrtfm.blogspot.com/search/label/perl" text="Boris Shtrasman" type="rss" xmlUrl="http://beta.blogger.com/feeds/3723948418026603019/posts/full/-/perl" />
+<outline title="Curtis Jewell's Perl stuff" htmlUrl="http://csjewell.dreamwidth.org/" text="Curtis Jewell's Perl stuff" type="rss" xmlUrl="http://csjewell.dreamwidth.org/data/rss" />
+<outline title="Perl Hacks" htmlUrl="http://perlhacks.com/" text="Dave Cross" type="rss" xmlUrl="http://perlhacks.com/atom.xml" />
+<outline title="Dereferenced.com" htmlUrl="http://www.dereferenced.com" text="rjray" type="rss" xmlUrl="http://www.dereferenced.com/feed/" />
+<outline title="ldami" htmlUrl="http://ldami.blogspot.com/" text="dami" type="rss" xmlUrl="http://ldami.blogspot.com/feeds/posts/default" />
+<outline title="jj's Journal" htmlUrl="http://use.perl.org/~jj/journal/" text="pudge@perl.org" type="rss" xmlUrl="http://use.perl.org/~jj/journal/rss" />
+<outline title="Mechanical Revolution" htmlUrl="http://mechanicalrevolution.com/" text="Peter Shangov" type="rss" xmlUrl="http://mechanicalrevolution.com/feed.xml" />
+<outline title="Open Swartz" htmlUrl="http://www.openswartz.com" text="Jonathan Swartz" type="rss" xmlUrl="http://www.openswartz.com/feed/" />
+<outline title="mdxi on software" htmlUrl="http://mdxionsoftware.blogspot.com/" text="Shawn" type="rss" xmlUrl="http://mdxionsoftware.blogspot.com/feeds/posts/default" />
+<outline title="Ryan52's Blog » perl" htmlUrl="http://blog.ryan52.info" text="admin" type="rss" xmlUrl="http://blog.ryan52.info/?feed=rss2&amp;tag=perl" />
+<outline title="Dereferenced.com" htmlUrl="http://www.dereferenced.com" text="rjray" type="rss" xmlUrl="http://www.dereferenced.com/feed/atom/" />
+<outline title="Perl Squirrel" htmlUrl="http://perlsquirrel.blogspot.com/" text="flyingsquirrel" type="rss" xmlUrl="http://www.blogger.com/feeds/240639029338918802/posts/default" />
+<outline title="Perl.org NOC" htmlUrl="http://log.perl.org/" text="Perl.org NOC" type="rss" xmlUrl="http://log.perl.org/atom.xml" />
+<outline title="Perl Foundation News" htmlUrl="http://news.perlfoundation.org/" text="Perl Foundation News" type="rss" xmlUrl="http://news.perlfoundation.org/atom.xml" />
+</outline>
+</body>
+</opml>

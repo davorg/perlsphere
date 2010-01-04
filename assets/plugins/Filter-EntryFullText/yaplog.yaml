@@ -1,0 +1,6 @@
+author: Masafumi Otsune
+handle: http://yaplog\.jp/\w+/archive/\d+
+extract_xpath:
+  body: //div[@class="txt"]
+extract_after_hook: |
+  $data->{body} =~ s!<script.*?</script>!!g;

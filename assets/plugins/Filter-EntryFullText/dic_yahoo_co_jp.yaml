@@ -1,0 +1,5 @@
+# http://dic.yahoo.co.jp/newword
+author: Masafumi Otsune
+handle: http://dic\.yahoo\.co\.jp/newword\?index=\d+.+
+extract_xpath:
+  body: //td[@class="s130"]/small[not(child::b or child::font)]

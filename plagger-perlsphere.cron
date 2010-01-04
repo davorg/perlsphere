@@ -1,0 +1,51 @@
+#!/usr/bin/perl
+
+# plagger-perlsphere.cron
+# Runs Plagger and captures and emails any error output to the site admin.
+# Suggested frequency: hourly.
+
+use warnings;
+use strict;
+use File::Temp qw(tempfile);
+     
+my $lock_file = '/tmp/perlsphere.lck';
+
+die "Already running ($lock_file exists)" if -e $lock_file;
+
+open(FH, ">$lock_file");
+print FH "Running... Perlsphere\n";
+close(FH);
+
+my $send_mail   = 1; # 0 to disable
+my $admin_email = 'leo@cuckoo.org';
+my $conf        = '/var/www/perlsphere.net/perlsphere.yaml';
+my $logdir      = '/var/www/perlsphere.net';
+
+my ($TMP, $tmpfile) = tempfile();
+
+# Run Plagger using our config and grab any STDERR into a temporary file.
+system qq(/usr/local/bin/plagger -c $conf > $tmpfile 2>&1);
+
+my ($sec, $min, $hour, $mday, $mon, $year) = gmtime(time);
+
+$mon++; $year += 1900;
+
+$_ = sprintf("%02d", $_) foreach ($sec, $min, $hour, $mday, $mon);
+
+my $date = "$year-$mon-${mday}T$hour:$min:${sec}Z";
+
+my $output = <$TMP>;
+
+if ($output && $send_mail) {
+        system qq(mail -s "Plagger results for perlsphere.net at $date" $admin_email < $tmpfile);
+}
+
+
+open (my $LOG, '>>', "$logdir/plagger.log") or die $!;
+print $LOG "$date: ";
+print $LOG $output ? "not OK\n" : "OK\n";
+print $LOG $output if $output;
+close $LOG;
+
+unlink $lock_file;
+unlink $tmpfile;
