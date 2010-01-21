@@ -77,7 +77,7 @@ plugins:
         - url:   http://feeds.feedburner.com/Webquills
         - url:   http://labs.kraih.com/blog/atom/perl/atom.xml
         - url:   http://blogs.perl.org/users/steffen_mueller/atom.xml
-        - url:   http://use.perl.org/~xsawyerx/journal/rss
+        - url:   http://blogs.perl.org/users/sawyer_x/atom.xml
         - url:   http://zerothorder.blogspot.com/feeds/posts/default
         - url:   http://blog.laufeyjarson.com/category/perl/feed/
         - url:   http://feed.theregister.co.uk/atom?q=perl&a=Aaron+Crane
