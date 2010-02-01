@@ -39,7 +39,7 @@ plugins:
         - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
           title: Jérôme Quelin
         - url:   http://jjnapiorkowski.vox.com/library/posts/atom-full.xml
-        - url:   http://jonasbn.livejournal.com/data/rss
+        - url:   http://logiclab.org/wordpress/feed/
         - url:   http://greenokapi.net/blog/tag/perl/feed/
           title: Just another lambdabananacamel
         - url:   http://leto.net/code/Math-GSL/atom.xml
