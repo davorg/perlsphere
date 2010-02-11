@@ -98,6 +98,9 @@ plugins:
         - url:   http://mdxionsoftware.blogspot.com/feeds/posts/default
         - url:   http://blog.ryan52.info/?feed=rss2&tag=perl
         - url:   http://www.dereferenced.com/feed/atom/
+        - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
+        - url:   http://www.effectiveperlprogramming.com/feed
+        - url:   http://use.perl.org/~brian_d_foy/journal/rss
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
