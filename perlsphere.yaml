@@ -101,6 +101,8 @@ plugins:
         - url:   http://use.perl.org/~brian_d_foy/journal/rss
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
+        - url:   http://yapgh.blogspot.com/feeds/posts/default
+        - url:   http://thoughtsofaperlprogrammer.wikispaces.com/page/xml/home?v=rss_2_0
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
         - url:   http://news.perlfoundation.org/atom.xml
