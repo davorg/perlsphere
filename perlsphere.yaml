@@ -102,6 +102,7 @@ plugins:
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
         - url:   http://yapgh.blogspot.com/feeds/posts/default
+        - url:   http://damien.krotkine.com/the-player-of-games/perl/atom.xml
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
         - url:   http://news.perlfoundation.org/atom.xml
