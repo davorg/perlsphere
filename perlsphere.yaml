@@ -23,6 +23,8 @@ plugins:
         - url:   http://use.perl.org/~ChrisDolan/journal/rss
         - url:   http://code-and-hacks.blogspot.com/feeds/posts/default
         - url:   http://www.dagolden.com/index.php/feed/
+        - url:   http://blogs.perl.org/users/gabor_szabo/atom.xml
+          title: Gabor Szabo
         - url:   http://feeds2.feedburner.com/DamienLearnsPerl
         - url:   http://www.cantrell.org.uk/david/journal/index.pl/keyword_perl?format=rss
         - url:   http://use.perl.org/~drhyde/journal/rss
