@@ -29,8 +29,6 @@ plugins:
         - url:   http://www.cantrell.org.uk/david/journal/index.pl/keyword_perl?format=rss
         - url:   http://use.perl.org/~drhyde/journal/rss
         - url:   http://leto.net/dukeleto.pl/atom.xml
-        - url:   http://downlode.org/Creative/Writing/MT/mt-search.cgi?tag=Perl&Template=feed&IncludeBlogs=2
-          title: Earle's Notebook
 #        - url:   http://babyl.dyndns.org/techblog/atom.xml
         - url:   http://blog.nix.is/tag/perl/feed
           title: Hinrik's blog
