@@ -7,6 +7,8 @@ plugins:
   - module: Subscription::Config
     config:
       feed:
+        - url:   http://www.perl.com/pub/atom.xml
+          title: Perl.com
         - url:   http://aaroncrane.co.uk/tag/perl/feed.atom
           title: AaronCrane.co.uk
         - url:   http://acme.vox.com/library/posts/tags/perl/atom-full.xml
