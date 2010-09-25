@@ -105,6 +105,7 @@ plugins:
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
         - url:   http://yapgh.blogspot.com/feeds/posts/default
         - url:   http://damien.krotkine.com/the-player-of-games/perl/atom.xml
+        - url:   http://blog.pkgbox.org/feeds/posts/default
         - url:   http://vti.showmetheco.de/tags/perl.rss
           title: No time to wait
         - url:   http://blog.kraih.com/rss.xml
