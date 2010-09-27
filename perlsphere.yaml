@@ -21,7 +21,7 @@ plugins:
         - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=ylxaLesS3hGLuL_IPm7D0g&_render=rss
         - url:   http://www.cattlegrid.info/mt/mt-search.cgi?search=perl&Template=feed&IncludeBlogs=1
           title: The Cattle Grid
-        - url:   http://use.perl.org/~chorny/journal/
+        - url:   http://blogs.perl.org/users/chorny/atom.xml
         - url:   http://use.perl.org/~ChrisDolan/journal/rss
         - url:   http://code-and-hacks.blogspot.com/feeds/posts/default
         - url:   http://www.dagolden.com/index.php/feed/
