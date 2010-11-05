@@ -11,7 +11,6 @@ plugins:
           title: Perl.com
         - url:   http://aaroncrane.co.uk/tag/perl/feed.atom
           title: AaronCrane.co.uk
-        - url:   http://acme.vox.com/library/posts/tags/perl/atom-full.xml
         - url:   http://perlisalive.com/weblog/feeds/ajt
           title: ajt
         - url:   http://use.perl.org/~Alias/journal/rss
@@ -40,7 +39,6 @@ plugins:
           title: House Absolute(ly Pointless)
         - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
           title: Jérôme Quelin
-        - url:   http://jjnapiorkowski.vox.com/library/posts/atom-full.xml
         - url:   http://logiclab.org/wordpress/feed/
         - url:   http://greenokapi.net/blog/tag/perl/feed/
           title: Just another lambdabananacamel
