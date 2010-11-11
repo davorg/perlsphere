@@ -47,14 +47,20 @@ plugins:
           title: Lyle's Perl Blog
         - url:   http://mark.stosberg.com/blog/perl/atom.xml
         - url:   http://use.perl.org/~miyagawa/journal/rss
+          title: Miyagawa's Journal
         - url:   http://www.modernperlbooks.com/mt/atom.xml
+          title: Modern Perl Blog
         - url:   http://blogs.perl.org/users/leo_lapworth/atom.xml
           title: Ranguard's blog
+        - url:   http://blogs.perl.org/users/peter_sergeant/
+          title: Peter Sergeant
         - url:   http://blog.phoenixtrap.com/feeds/posts/default/-/Perl
         - url:   http://blog.woobling.org/feeds/posts/default
         - url:   http://nxadm.wordpress.com/tag/perl/feed/
         - url:   http://onionstand.blogspot.com/feeds/posts/default?alt=rss
+          title: The Onion Stand
         - url:   http://blogs.perl.org/users/ovid/atom.xml
+          title: Ovid
         - url:   http://blog.patspam.com/category/comp/perl/feed
           title: patspam.com
         - url:   http://feeds.feedburner.com/PerlBuzz
