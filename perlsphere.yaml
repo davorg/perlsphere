@@ -109,6 +109,8 @@ plugins:
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
         - url:   http://yapgh.blogspot.com/feeds/posts/default
         - url:   http://damien.krotkine.com/the-player-of-games/perl/atom.xml
+        - url:   http://pradeeppant.com/feed/
+          title: Pradeep
         - url:   http://blog.pkgbox.org/feeds/posts/default
         - url:   https://grepular.com/category/Perl/rss
           title: Mike Cardwell, Online
