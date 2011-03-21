@@ -75,7 +75,7 @@ plugins:
         - url:   http://proudtouseperl.com/atom.xml
         - url:   http://rjbs.manxome.org/rubric/entries/tags/perl?format=rss
           title: Ricardo Signes
-        - url:   http://sartak.blogspot.com/feeds/posts/default
+        - url:   http://blog.sartak.org/rss.xml
         - url:   http://use.perl.org/~schwern/journal/rss
         - url:   http://www.shlomifish.org/me/blogs/agg/shlomif-perl-aggregate.xml
           title: Shlomi Fish
@@ -87,7 +87,6 @@ plugins:
         - url:   http://blogs.perl.org/users/sawyer_x/atom.xml
         - url:   http://zerothorder.blogspot.com/feeds/posts/default
         - url:   http://blog.laufeyjarson.com/category/perl/feed/
-        - url:   http://feed.theregister.co.uk/atom?q=perl&a=Aaron+Crane
         - url:   http://damien.krotkine.com/the-player-of-games/atom.xml
         - url:   http://use.perl.org/~sir_lichtkind/journal/rss
           title: Herbert Breunung
@@ -118,6 +117,14 @@ plugins:
           title: Mike Cardwell, Online
         - url:   http://vti.showmetheco.de/tags/perl.rss
           title: No time to wait
+        - url:   http://rjbs.manxome.org/rubric/~rjbs/programming?long_form=1&format=rss
+          title: Ricardo Signes
+        - url:   http://feeds2.feedburner.com/justatheory/atomsum
+          title: Just a Theory
+        - url:   http://blogs.perl.org/users/jeffrey_kegler/atom.xml
+          title: Ocean of Awareness
+        - url:   http://froebe.net/blog/categories/perl/feed
+          title: Jason Froebe
         - url:   http://blog.kraih.com/rss.xml
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
