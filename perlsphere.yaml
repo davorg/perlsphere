@@ -15,22 +15,20 @@ plugins:
           title: AaronCrane.co.uk
         - url:   http://perlisalive.com/weblog/feeds/ajt
           title: ajt
-        - url:   http://use.perl.org/~Alias/journal/rss
-        - url:   http://use.perl.org/~Aristotle/journal/rss
+        - url:   http://blogs.perl.org/users/alias/atom.xml
+        - url:   http://blogs.perl.org/users/aristotle/atom.xml
 #        - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=2sBjTfo53RGoH4IRo_NLYQ&_render=rss
 #          title: B10[mg]
         - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=ylxaLesS3hGLuL_IPm7D0g&_render=rss
         - url:   http://www.cattlegrid.info/mt/mt-search.cgi?search=perl&Template=feed&IncludeBlogs=1
           title: The Cattle Grid
         - url:   http://blogs.perl.org/users/chorny/atom.xml
-        - url:   http://use.perl.org/~ChrisDolan/journal/rss
         - url:   http://code-and-hacks.blogspot.com/feeds/posts/default
         - url:   http://www.dagolden.com/index.php/feed/
         - url:   http://blogs.perl.org/users/gabor_szabo/atom.xml
           title: Gabor Szabo
         - url:   http://feeds2.feedburner.com/DamienLearnsPerl
         - url:   http://www.cantrell.org.uk/david/journal/index.pl/keyword_perl?format=rss
-        - url:   http://use.perl.org/~drhyde/journal/rss
         - url:   http://leto.net/dukeleto.pl/atom.xml
 #        - url:   http://babyl.dyndns.org/techblog/atom.xml
         - url:   http://blog.nix.is/tag/perl/feed
@@ -48,7 +46,7 @@ plugins:
         - url:   http://perl.bristolbath.org/blog/lyle/atom.xml
           title: Lyle's Perl Blog
         - url:   http://mark.stosberg.com/blog/perl/atom.xml
-        - url:   http://use.perl.org/~miyagawa/journal/rss
+        - url:   http://bulknews.typepad.com/blog/rss.xml
           title: Miyagawa's Journal
         - url:   http://www.modernperlbooks.com/mt/atom.xml
           title: Modern Perl Blog
@@ -71,15 +69,14 @@ plugins:
         - url:   http://pjf.id.au/blog/index.rss?tag=perl
         - url:   http://perlgeek.de/blog-en/
         - url:   http://perlid.blogspot.com/feeds/posts/default
-        - url:   http://use.perl.org/~Phred/journal/rss
+        - url:   http://blogs.perl.org/users/phred/atom.xml
         - url:   http://proudtouseperl.com/atom.xml
         - url:   http://rjbs.manxome.org/rubric/entries/tags/perl?format=rss
           title: Ricardo Signes
         - url:   http://blog.sartak.org/rss.xml
-        - url:   http://use.perl.org/~schwern/journal/rss
+        - url:   http://blogs.perl.org/users/michael_g_schwern/atom.xml
         - url:   http://www.shlomifish.org/me/blogs/agg/shlomif-perl-aggregate.xml
           title: Shlomi Fish
-        - url:   http://use.perl.org/~tomhukins/journal/rss
         - url:   http://transfixedbutnotdead.com/tag/perl/feed/
           title: transfixed but not dead!
         - url:   http://feeds.feedburner.com/Webquills
@@ -88,8 +85,6 @@ plugins:
         - url:   http://zerothorder.blogspot.com/feeds/posts/default
         - url:   http://blog.laufeyjarson.com/category/perl/feed/
         - url:   http://damien.krotkine.com/the-player-of-games/atom.xml
-        - url:   http://use.perl.org/~sir_lichtkind/journal/rss
-          title: Herbert Breunung
         - url:   http://perlgeek.de/blog-en/index.rss
         - url:   http://ahmadzawawi.blogspot.com/feeds/posts/default
         - url:   http://blog.weftsoar.net/feeds/posts/default?alt=rss
@@ -98,14 +93,12 @@ plugins:
         - url:   http://perlhacks.com/atom.xml
         - url:   http://www.dereferenced.com/feed/
         - url:   http://ldami.blogspot.com/feeds/posts/default
-        - url:   http://use.perl.org/~jj/journal/rss
         - url:   http://mechanicalrevolution.com/feed.xml
         - url:   http://www.openswartz.com/feed/
         - url:   http://blog.ryan52.info/?feed=rss2&tag=perl
         - url:   http://www.dereferenced.com/feed/atom/
         - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
         - url:   http://www.effectiveperlprogramming.com/feed
-        - url:   http://use.perl.org/~brian_d_foy/journal/rss
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
         - url:   http://yapgh.blogspot.com/feeds/posts/default
