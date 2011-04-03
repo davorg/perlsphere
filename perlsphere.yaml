@@ -103,6 +103,8 @@ plugins:
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
         - url:   http://yapgh.blogspot.com/feeds/posts/default
         - url:   http://damien.krotkine.com/the-player-of-games/perl/atom.xml
+        - url:   http://tong.ijenko.net/feed/
+          title: Technical Obvious NG
         - url:   http://pradeeppant.com/feed/
           title: Pradeep
         - url:   http://blog.pkgbox.org/feeds/posts/default
