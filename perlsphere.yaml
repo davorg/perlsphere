@@ -15,7 +15,6 @@ plugins:
           title: AaronCrane.co.uk
         - url:   http://perlisalive.com/weblog/feeds/ajt
           title: ajt
-        - url:   http://blogs.perl.org/users/alias/atom.xml
         - url:   http://blogs.perl.org/users/aristotle/atom.xml
 #        - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=2sBjTfo53RGoH4IRo_NLYQ&_render=rss
 #          title: B10[mg]
@@ -120,6 +119,8 @@ plugins:
           title: Ocean of Awareness
         - url:   http://froebe.net/blog/categories/perl/feed
           title: Jason Froebe
+        - url:   http://perl.andrewalker.net/feed/
+          title: Andrew Walker
         - url:   http://blog.kraih.com/rss.xml
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
