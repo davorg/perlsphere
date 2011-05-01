@@ -121,6 +121,8 @@ plugins:
           title: Jason Froebe
         - url:   http://perl.andrewalker.net/feed/
           title: Andrew Walker
+        - url:   http://log.gnusosa.net/feed/atom
+          title: Carlos Ivan Sosa
         - url:   http://blog.kraih.com/rss.xml
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
