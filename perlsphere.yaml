@@ -125,6 +125,8 @@ plugins:
           title: Carlos Ivan Sosa
         - url:   http://ttjjss.wordpress.com/feed/
           title: Tadeusz Sosnierz
+        - url:   http://blog.moose.perl.org/atom.xml
+          title: Moose Blog
         - url:   http://blog.kraih.com/rss.xml
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
