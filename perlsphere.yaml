@@ -104,7 +104,7 @@ plugins:
         - url:   http://damien.krotkine.com/the-player-of-games/perl/atom.xml
         - url:   http://tong.ijenko.net/feed/
           title: Technical Obvious NG
-        - url:   http://pradeeppant.com/feed/
+        - url:   http://pradeeppant.com/category/perl/feed/
           title: Pradeep
         - url:   http://blog.pkgbox.org/feeds/posts/default
         - url:   https://grepular.com/category/Perl/rss
