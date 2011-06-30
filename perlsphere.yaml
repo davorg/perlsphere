@@ -117,6 +117,8 @@ plugins:
           title: Just a Theory
         - url:   http://blogs.perl.org/users/jeffrey_kegler/atom.xml
           title: Ocean of Awareness
+        - url:   http://www.curmudgeonlysoftware.com/tag/perl/feed/
+          title: Brian Meeker
         - url:   http://froebe.net/blog/categories/perl/feed
           title: Jason Froebe
         - url:   http://perl.andrewalker.net/feed/
