@@ -130,6 +130,8 @@ plugins:
           title: MetaCPAN blog
         - url:   http://blog.moose.perl.org/atom.xml
           title: Moose Blog
+        - url:   http://feeds.feedburner.com/plu
+          title: Johannes Plunien
         - url:   http://blog.kraih.com/rss.xml
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
