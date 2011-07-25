@@ -68,7 +68,6 @@ plugins:
         - url:   http://perlgeek.de/blog-en/
         - url:   http://perlid.blogspot.com/feeds/posts/default
         - url:   http://blogs.perl.org/users/phred/atom.xml
-        - url:   http://proudtouseperl.com/atom.xml
         - url:   http://rjbs.manxome.org/rubric/entries/tags/perl?format=rss
           title: Ricardo Signes
         - url:   http://blog.sartak.org/rss.xml
