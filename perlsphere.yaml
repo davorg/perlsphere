@@ -122,6 +122,8 @@ plugins:
           title: Jason Froebe
         - url:   http://perl.andrewalker.net/feed/
           title: Andrew Walker
+        - url:   http://perl-node-interface.blogspot.com/feeds/posts/default
+          title: Perl Node Interface
         - url:   http://log.gnusosa.net/feed/atom
           title: Carlos Ivan Sosa
         - url:   http://ttjjss.wordpress.com/feed/
