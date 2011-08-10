@@ -64,7 +64,6 @@ plugins:
         - url:   http://feeds.feedburner.com/PerlBuzz
         - url:   http://perlhackerpainter.blogspot.com/feeds/posts/default
         - url:   http://feeds.feedburner.com/PerlipseDevelopment
-        - url:   http://pjf.id.au/blog/index.rss?tag=perl
         - url:   http://perlgeek.de/blog-en/
         - url:   http://perlid.blogspot.com/feeds/posts/default
         - url:   http://blogs.perl.org/users/phred/atom.xml
