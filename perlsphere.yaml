@@ -38,8 +38,6 @@ plugins:
         - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
           title: Jérôme Quelin
         - url:   http://logiclab.org/wordpress/feed/
-        - url:   http://greenokapi.net/blog/tag/perl/feed/
-          title: Just another lambdabananacamel
         - url:   http://leto.net/code/Math-GSL/atom.xml
         - url:   http://perl.bristolbath.org/blog/lyle/atom.xml
           title: Lyle's Perl Blog
@@ -64,7 +62,6 @@ plugins:
         - url:   http://feeds.feedburner.com/PerlBuzz
         - url:   http://perlhackerpainter.blogspot.com/feeds/posts/default
         - url:   http://feeds.feedburner.com/PerlipseDevelopment
-        - url:   http://pjf.id.au/blog/index.rss?tag=perl
         - url:   http://perlgeek.de/blog-en/
         - url:   http://perlid.blogspot.com/feeds/posts/default
         - url:   http://blogs.perl.org/users/phred/atom.xml
