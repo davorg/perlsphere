@@ -13,8 +13,6 @@ plugins:
           title: Perl.com
         - url:   http://aaroncrane.co.uk/tag/perl/feed.atom
           title: AaronCrane.co.uk
-        - url:   http://perlisalive.com/weblog/feeds/ajt
-          title: ajt
         - url:   http://blogs.perl.org/users/aristotle/atom.xml
 #        - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=2sBjTfo53RGoH4IRo_NLYQ&_render=rss
 #          title: B10[mg]
@@ -31,8 +29,8 @@ plugins:
 #        - url:   http://babyl.dyndns.org/techblog/atom.xml
         - url:   http://blog.nix.is/tag/perl/feed
           title: Hinrik's blog
-        - url:   http://perldition.org/feeds/category/Perl/atom
-          title: /home/rafl
+#        - url:   http://perldition.org/feeds/category/Perl/atom
+#          title: /home/rafl
         - url:   http://blog.urth.org/programming/atom.xml
           title: House Absolute(ly Pointless)
         - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
@@ -130,6 +128,10 @@ plugins:
           title: Moose Blog
         - url:   http://feeds.feedburner.com/plu
           title: Johannes Plunien
+        - url:   http://blogs.perl.org/users/mike_friedman/atom.xml
+          title: Mike Friedman
+        - url:   http://blogs.perl.org/users/joel_berger/atom.xml
+          title: Joel Berger
         - url:   http://blog.kraih.com/rss.xml
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
