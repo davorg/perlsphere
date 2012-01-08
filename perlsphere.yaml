@@ -130,7 +130,7 @@ plugins:
           title: Johannes Plunien
         - url:   http://blogs.perl.org/users/mike_friedman/atom.xml
           title: Mike Friedman
-        - url:   http://ericjohnson.posterous.com/rss.xml?tag=perl
+        - url:   http://ericjohnson.posterous.com/tag/perl
           title: Eric Johnson
         - url:   http://blogs.perl.org/users/joel_berger/atom.xml
           title: Joel Berger
