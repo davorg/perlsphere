@@ -128,8 +128,10 @@ plugins:
           title: Moose Blog
         - url:   http://feeds.feedburner.com/plu
           title: Johannes Plunien
-        - url:   http://blog.andrew-jones.com/tag/perl/,
+        - url:   http://blog.andrew-jones.com/tag/perl/
           title: Andrew Jones
+        - url:   http://wp.colliertech.org/cj/?cat=18
+          title: The Paedantic Programmer
         - url:   http://blogs.perl.org/users/mike_friedman/atom.xml
           title: Mike Friedman
         - url:   http://ericjohnson.posterous.com/tag/perl
