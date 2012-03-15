@@ -128,7 +128,7 @@ plugins:
           title: Moose Blog
         - url:   http://feeds.feedburner.com/plu
           title: Johannes Plunien
-        - url:   http://blog.andrew-jones.com/tag/perl/
+        - url:   http://blog.andrew-jones.com/tag/perl/feed/
           title: Andrew Jones
         - url:   http://wp.colliertech.org/cj/?cat=18
           title: The Paedantic Programmer
