@@ -71,7 +71,7 @@ body { text-align: center; } /* center on ie */
 {
 	position: relative;
 	margin: 0 auto; /* center on everything else */
-	width: 720px;
+	width: 50em;
 	text-align: left;
 }
 #container-inner { position: static; width: auto; }
