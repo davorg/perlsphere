@@ -136,6 +136,8 @@ plugins:
           title: The Paedantic Programmer
         - url:   http://blogs.perl.org/users/mike_friedman/atom.xml
           title: Mike Friedman
+        - url:   http://www.martin-evans.me.uk/taxonomy/term/3/all/feed
+          title: Martin Evans
         - url:   http://blogs.perl.org/users/joel_berger/atom.xml
           title: Joel Berger
         - url:   http://blog.kraih.com/rss.xml
