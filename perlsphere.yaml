@@ -78,7 +78,7 @@ plugins:
         - url:   http://blogs.perl.org/users/sawyer_x/atom.xml
         - url:   http://zerothorder.blogspot.com/feeds/posts/default
         - url:   http://blog.laufeyjarson.com/category/perl/feed/
-        - url:   http://damien.krotkine.com/the-player-of-games/atom.xml
+        - url:   http://feeds.feedburner.com/damien-krotkine
         - url:   http://perlgeek.de/blog-en/index.rss
         - url:   http://ahmadzawawi.blogspot.com/feeds/posts/default
         - url:   http://blog.weftsoar.net/feeds/posts/default?alt=rss
@@ -96,7 +96,6 @@ plugins:
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
         - url:   http://yapgh.blogspot.com/feeds/posts/default
-        - url:   http://damien.krotkine.com/the-player-of-games/perl/atom.xml
         - url:   http://tong.ijenko.net/feed/
           title: Technical Obvious NG
         - url:   http://pradeeppant.com/category/perl/feed/
