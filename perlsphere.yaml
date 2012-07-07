@@ -117,8 +117,6 @@ plugins:
           title: Brian Meeker
         - url:   http://froebe.net/blog/categories/perl/feed
           title: Jason Froebe
-        - url:   http://perl.andrewalker.net/feed/
-          title: Andrew Walker
         - url:   http://perl-node-interface.blogspot.com/feeds/posts/default
           title: Perl Node Interface
         - url:   http://log.gnusosa.net/feed/atom
