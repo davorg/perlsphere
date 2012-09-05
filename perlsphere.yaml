@@ -138,6 +138,8 @@ plugins:
         - url:   http://blogs.perl.org/users/joel_berger/atom.xml
           title: Joel Berger
         - url:   http://blog.kraih.com/rss.xml
+        - url:   http://perlgems.blogspot.com/
+          title: Perl Gems
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
         - url:   http://curiousprogrammer.wordpress.com/feed/
