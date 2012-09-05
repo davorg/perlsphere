@@ -11,11 +11,11 @@ plugins:
           title: Perl News
         - url:   http://www.perl.com/pub/atom.xml
           title: Perl.com
+        - url:   http://blogs.perl.org/users/perl_5_porters_summaries/atom.xml
+          title: Perl 5 Porters Summaries
         - url:   http://aaroncrane.co.uk/tag/perl/feed.atom
           title: AaronCrane.co.uk
         - url:   http://blogs.perl.org/users/aristotle/atom.xml
-#        - url:   http://pipes.yahoo.com/pipes/pipe.run?_id=2sBjTfo53RGoH4IRo_NLYQ&_render=rss
-#          title: B10[mg]
         - url:   http://www.cattlegrid.info/mt/mt-search.cgi?search=perl&Template=feed&IncludeBlogs=1
           title: The Cattle Grid
         - url:   http://blogs.perl.org/users/chorny/atom.xml
@@ -131,8 +131,6 @@ plugins:
           title: Johannes Plunien
         - url:   http://blog.andrew-jones.com/tag/perl/feed/
           title: Andrew Jones
-        - url:   http://wp.colliertech.org/cj/?cat=18
-          title: The Paedantic Programmer
         - url:   http://blogs.perl.org/users/mike_friedman/atom.xml
           title: Mike Friedman
         - url:   http://www.martin-evans.me.uk/taxonomy/term/3/all/feed
