@@ -26,11 +26,6 @@ plugins:
         - url:   http://feeds2.feedburner.com/DamienLearnsPerl
         - url:   http://www.cantrell.org.uk/david/journal/index.pl/keyword_perl?format=rss
         - url:   http://leto.net/dukeleto.pl/atom.xml
-#        - url:   http://babyl.dyndns.org/techblog/atom.xml
-        - url:   http://blog.nix.is/tag/perl/feed
-          title: Hinrik's blog
-#        - url:   http://perldition.org/feeds/category/Perl/atom
-#          title: /home/rafl
         - url:   http://blog.urth.org/programming/atom.xml
           title: House Absolute(ly Pointless)
         - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
