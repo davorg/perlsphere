@@ -106,7 +106,7 @@ plugins:
           title: Ricardo Signes
         - url:   http://feeds2.feedburner.com/justatheory/atomsum
           title: Just a Theory
-        - url:   http://blogs.perl.org/users/jeffrey_kegler/atom.xml
+        - url:   http://jeffreykegler.github.com/Ocean-of-Awareness-blog/index.rss
           title: Ocean of Awareness
         - url:   http://www.curmudgeonlysoftware.com/tag/perl/feed/
           title: Brian Meeker
