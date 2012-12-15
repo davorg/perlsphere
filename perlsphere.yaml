@@ -26,8 +26,6 @@ plugins:
         - url:   http://feeds2.feedburner.com/DamienLearnsPerl
         - url:   http://www.cantrell.org.uk/david/journal/index.pl/keyword_perl?format=rss
         - url:   http://leto.net/dukeleto.pl/atom.xml
-        - url:   http://blog.urth.org/programming/atom.xml
-          title: House Absolute(ly Pointless)
         - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
           title: Jérôme Quelin
         - url:   http://logiclab.org/wordpress/feed/
@@ -47,7 +45,7 @@ plugins:
           title: Eric Johnson (kablamo)
         - url:   http://act.yapc.eu/mtmh2012/atom/en.xml
           title: Moving to Moose hackathon
-        - url:   http://blog.phoenixtrap.com/feeds/posts/default/-/Perl
+        - url:   http://blog.phoenixtrap.com/search/label/perl
         - url:   http://blog.woobling.org/feeds/posts/default
         - url:   http://nxadm.wordpress.com/tag/perl/feed/
         - url:   http://onionstand.blogspot.com/feeds/posts/default?alt=rss
