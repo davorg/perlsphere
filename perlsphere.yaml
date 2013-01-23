@@ -90,6 +90,7 @@ plugins:
         - url:   http://www.effectiveperlprogramming.com/feed
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
+        - url:   http://www.pkgbox.de/feeds/posts/default
         - url:   http://yapgh.blogspot.com/feeds/posts/default
         - url:   http://tong.ijenko.net/feed/
           title: Technical Obvious NG
