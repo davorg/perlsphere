@@ -96,7 +96,6 @@ plugins:
           title: Technical Obvious NG
         - url:   http://pradeeppant.com/category/perl/feed/
           title: Pradeep
-        - url:   http://blog.pkgbox.org/feeds/posts/default
         - url:   https://grepular.com/category/Perl/rss
           title: Mike Cardwell, Online
         - url:   http://vti.showmetheco.de/tags/perl.rss
