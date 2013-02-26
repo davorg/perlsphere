@@ -132,7 +132,7 @@ plugins:
           title: Stas
         - url:   http://blogs.perl.org/users/joel_berger/atom.xml
           title: Joel Berger
-        - url:   http://blog.kraih.com/rss.xml
+        - url:   http://blog.kraih.com/rss
         - url:   http://perlgems.blogspot.com/
           title: Perl Gems
         - url:   http://blog.booking.com/feeds/Perl.atom.xml
