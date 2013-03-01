@@ -87,6 +87,7 @@ plugins:
         - url:   http://blog.ryan52.info/?feed=rss2&tag=perl
         - url:   http://www.dereferenced.com/feed/atom/
         - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
+        - url:   http://perl-blog.berghold.net/ 
         - url:   http://www.effectiveperlprogramming.com/feed
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
