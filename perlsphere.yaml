@@ -79,6 +79,7 @@ plugins:
         - url:   http://blog.weftsoar.net/feeds/posts/default?alt=rss
         - url:   http://beta.blogger.com/feeds/3723948418026603019/posts/full/-/perl
         - url:   http://csjewell.dreamwidth.org/data/rss
+        - url:   http://techblog.babyl.ca/feed/atom
         - url:   http://perlhacks.com/atom.xml
         - url:   http://www.dereferenced.com/feed/
         - url:   http://ldami.blogspot.com/feeds/posts/default
