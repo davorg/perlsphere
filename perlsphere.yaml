@@ -84,8 +84,6 @@ plugins:
         - url:   http://www.dereferenced.com/feed/
         - url:   http://ldami.blogspot.com/feeds/posts/default
         - url:   http://mechanicalrevolution.com/feed.xml
-        - url:   http://www.openswartz.com/feed/
-        - url:   http://blog.ryan52.info/?feed=rss2&tag=perl
         - url:   http://www.dereferenced.com/feed/atom/
         - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
         - url:   http://perl-blog.berghold.net/ 
