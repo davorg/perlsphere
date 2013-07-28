@@ -41,7 +41,7 @@ plugins:
           title: Ranguard's blog
         - url:   http://blogs.perl.org/users/peter_sergeant/
           title: Peter Sergeant
-        - url:   http://blog.kablamo.org/rss.xml
+        - url:   http://blog.kablamo.org/categories/perl/atom.xml
           title: Eric Johnson (kablamo)
         - url:   http://act.yapc.eu/mtmh2012/atom/en.xml
           title: Moving to Moose hackathon
