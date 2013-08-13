@@ -55,6 +55,7 @@ plugins:
         - url:   http://blog.patspam.com/category/comp/perl/feed
           title: patspam.com
         - url:   http://feeds.feedburner.com/PerlBuzz
+        - url:   http://www.ology.net/tech/tag/perl/feed/
         - url:   http://perlhackerpainter.blogspot.com/feeds/posts/default
         - url:   http://feeds.feedburner.com/PerlipseDevelopment
         - url:   http://perlgeek.de/blog-en/
