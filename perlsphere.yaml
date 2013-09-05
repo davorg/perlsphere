@@ -88,6 +88,7 @@ plugins:
         - url:   http://mechanicalrevolution.com/feed.xml
         - url:   http://www.dereferenced.com/feed/atom/
         - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
+        - url:   http://www.manchicken.com/tag/perl-2/feed/atom 
         - url:   http://perl-blog.berghold.net/ 
         - url:   http://www.effectiveperlprogramming.com/feed
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
