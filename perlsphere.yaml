@@ -87,6 +87,7 @@ plugins:
         - url:   http://www.pal-blog.de/entwicklung/perl/
         - url:   http://mechanicalrevolution.com/feed.xml
         - url:   http://www.dereferenced.com/feed/atom/
+        - url:   http://blog.endpoint.com/feeds/posts/default/-/perl
         - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
         - url:   http://www.manchicken.com/tag/perl-2/feed/atom 
         - url:   http://perl-blog.berghold.net/ 
