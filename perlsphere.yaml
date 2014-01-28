@@ -76,6 +76,7 @@ plugins:
         - url:   http://feeds.feedburner.com/damien-krotkine
         - url:   http://perlgeek.de/blog-en/index.rss
         - url:   http://ahmadzawawi.blogspot.com/feeds/posts/default
+        - url:   http://neilb.org/atom.xml
         - url:   http://blog.weftsoar.net/feeds/posts/default?alt=rss
         - url:   http://beta.blogger.com/feeds/3723948418026603019/posts/full/-/perl
         - url:   http://csjewell.dreamwidth.org/data/rss
@@ -89,7 +90,6 @@ plugins:
         - url:   http://blog.endpoint.com/feeds/posts/default/-/perl
         - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
         - url:   http://www.manchicken.com/tag/perl-2/feed/atom 
-        - url:   http://perl-blog.berghold.net/ 
         - url:   http://www.effectiveperlprogramming.com/feed
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
@@ -115,8 +115,6 @@ plugins:
           title: Jason Froebe
         - url:   http://perl-node-interface.blogspot.com/feeds/posts/default
           title: Perl Node Interface
-        - url:   http://log.gnusosa.net/feed/atom
-          title: Carlos Ivan Sosa
         - url:   http://ttjjss.wordpress.com/feed/
           title: Tadeusz Sosnierz
         - url:   http://blogs.perl.org/users/mo/atom.xml
