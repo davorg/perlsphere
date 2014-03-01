@@ -52,8 +52,6 @@ plugins:
           title: The Onion Stand
         - url:   http://blogs.perl.org/users/ovid/atom.xml
           title: Ovid
-        - url:   http://blog.patspam.com/category/comp/perl/feed
-          title: patspam.com
         - url:   http://feeds.feedburner.com/PerlBuzz
         - url:   http://perlhackerpainter.blogspot.com/feeds/posts/default
         - url:   http://feeds.feedburner.com/PerlipseDevelopment
