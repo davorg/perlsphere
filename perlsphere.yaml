@@ -92,6 +92,7 @@ plugins:
         - url:   http://www.manchicken.com/tag/perl-2/feed/atom 
         - url:   http://www.effectiveperlprogramming.com/feed
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
+        - url:   http://xaerxess.pl/blog/categories/perl/index.html
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
         - url:   http://yapgh.blogspot.com/feeds/posts/default
         - url:   http://hoelz.ro/perl5.rss
