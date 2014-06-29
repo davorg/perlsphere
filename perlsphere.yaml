@@ -60,7 +60,6 @@ plugins:
         - url:   http://blogs.perl.org/users/phred/atom.xml
         - url:   http://rjbs.manxome.org/rubric/entries/tags/perl?format=rss
           title: Ricardo Signes
-        - url:   http://blog.sartak.org/rss.xml
         - url:   http://blogs.perl.org/users/michael_g_schwern/atom.xml
         - url:   http://www.shlomifish.org/me/blogs/agg/shlomif-perl-aggregate.xml
           title: Shlomi Fish
