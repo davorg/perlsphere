@@ -74,6 +74,7 @@ plugins:
         - url:   http://perlgeek.de/blog-en/index.rss
         - url:   http://ahmadzawawi.blogspot.com/feeds/posts/default
         - url:   http://neilb.org/atom.xml
+        - url:   http://blogs.perl.org/users/neilb/atom.xml
         - url:   http://blog.weftsoar.net/feeds/posts/default?alt=rss
         - url:   http://beta.blogger.com/feeds/3723948418026603019/posts/full/-/perl
         - url:   http://csjewell.dreamwidth.org/data/rss
