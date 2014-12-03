@@ -11,8 +11,8 @@ plugins:
           title: Perl News
         - url:   http://www.perl.com/pub/atom.xml
           title: Perl.com
-        - url:   http://blogs.perl.org/users/perl_5_porters_summaries/atom.xml
-          title: Perl 5 Porters Summaries
+        - url:   https://metacpan.org/feed/news
+          title: MetaCPAN news
         - url:   http://aaroncrane.co.uk/tag/perl/feed.atom
           title: AaronCrane.co.uk
         - url:   http://blogs.perl.org/users/aristotle/atom.xml
