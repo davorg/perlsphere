@@ -123,8 +123,6 @@ plugins:
           title: Moose Blog
         - url:   http://feeds.feedburner.com/plu
           title: Johannes Plunien
-        - url:   http://blog.andrew-jones.com/tag/perl/feed/
-          title: Andrew Jones
         - url:   http://blogs.perl.org/users/mike_friedman/atom.xml
           title: Mike Friedman
         - url:   http://www.martin-evans.me.uk/taxonomy/term/3/all/feed
@@ -138,8 +136,6 @@ plugins:
         - url:   http://blog.kraih.com/rss
         - url:   http://perlgems.blogspot.com/
           title: Perl Gems
-        - url:   http://blog.booking.com/feeds/Perl.atom.xml
-          title: Booking.com Perl Dev Blog
         - url:   http://log.perl.org/atom.xml
           title: Perl.org NOC
         - url:   http://curiousprogrammer.wordpress.com/feed/
