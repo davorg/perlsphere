@@ -132,6 +132,7 @@ plugins:
         - url:   http://blogs.perl.org/users/stas/atom.xml
           title: Stas
         - url:   http://fluca1978.blogspot.com/feeds/posts/default/-/planet-perl-ironman
+        - url:   http://tinypig2.blogspot.com/feeds/posts/default/-/perl
         - url:   http://blogs.perl.org/users/joel_berger/atom.xml
           title: Joel Berger
         - url:   http://blog.kraih.com/rss
