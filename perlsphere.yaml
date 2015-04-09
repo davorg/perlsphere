@@ -56,7 +56,6 @@ plugins:
         - url:   http://perlhackerpainter.blogspot.com/feeds/posts/default
         - url:   http://feeds.feedburner.com/PerlipseDevelopment
         - url:   http://perlgeek.de/blog-en/
-        - url:   http://www.djet.xyz/blogs
         - url:   http://perlid.blogspot.com/feeds/posts/default
         - url:   http://blogs.perl.org/users/phred/atom.xml
         - url:   http://rjbs.manxome.org/rubric/entries/tags/perl?format=rss
@@ -95,7 +94,6 @@ plugins:
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://xaerxess.pl/blog/categories/perl/index.html
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
-        - url:   https://huntingbears.nl/category/perl/
         - url:   http://yapgh.blogspot.com/feeds/posts/default
         - url:   http://hoelz.ro/perl5.rss
         - url:   http://devblog.nestoria.com/tagged/perl/rss
@@ -125,8 +123,6 @@ plugins:
           title: MetaCPAN blog
         - url:   http://blog.moose.perl.org/atom.xml
           title: Moose Blog
-        - url:   http://feeds.feedburner.com/plu
-          title: Johannes Plunien
         - url:   http://blogs.perl.org/users/mike_friedman/atom.xml
           title: Mike Friedman
         - url:   http://www.martin-evans.me.uk/taxonomy/term/3/all/feed
