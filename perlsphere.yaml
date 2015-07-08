@@ -82,7 +82,6 @@ plugins:
         - url:   http://perlhacks.com/atom.xml
         - url:   http://www.dereferenced.com/feed/
         - url:   http://ldami.blogspot.com/feeds/posts/default
-        - url:   http://www.pal-blog.de/entwicklung/perl/
         - url:   http://mechanicalrevolution.com/feed.xml
         - url:   http://www.dereferenced.com/feed/atom/
         - url:   http://blog.endpoint.com/feeds/posts/default/-/perl
