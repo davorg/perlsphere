@@ -32,7 +32,6 @@ plugins:
         - url:   http://leto.net/code/Math-GSL/atom.xml
         - url:   http://perl.bristolbath.org/blog/lyle/atom.xml
           title: Lyle's Perl Blog
-        - url:   http://mark.stosberg.com/blog/perl/atom.xml
         - url:   http://bulknews.typepad.com/blog/rss.xml
           title: Miyagawa's Journal
         - url:   http://www.modernperlbooks.com/mt/atom.xml
@@ -115,8 +114,6 @@ plugins:
         - url:   http://froebe.net/blog/categories/perl/feed
           title: Jason Froebe
         - url:   http://perl-node-interface.blogspot.com/feeds/posts/default
-          title: Perl Node Interface
-        - url:   http://ttjjss.wordpress.com/feed/
           title: Tadeusz Sosnierz
         - url:   http://blogs.perl.org/users/mo/atom.xml
           title: MetaCPAN blog
