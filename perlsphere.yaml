@@ -28,7 +28,6 @@ plugins:
         - url:   http://leto.net/dukeleto.pl/atom.xml
         - url:   http://jquelin.blogspot.com/feeds/posts/default?alt=rss
           title: Jérôme Quelin
-        - url:   http://logiclab.org/wordpress/feed/
         - url:   http://leto.net/code/Math-GSL/atom.xml
         - url:   http://perl.bristolbath.org/blog/lyle/atom.xml
           title: Lyle's Perl Blog
@@ -77,7 +76,6 @@ plugins:
         - url:   http://blog.weftsoar.net/feeds/posts/default?alt=rss
         - url:   http://beta.blogger.com/feeds/3723948418026603019/posts/full/-/perl
         - url:   http://csjewell.dreamwidth.org/data/rss
-        - url:   http://techblog.babyl.ca/feed/atom
         - url:   http://perlhacks.com/atom.xml
         - url:   http://www.dereferenced.com/feed/
         - url:   http://ldami.blogspot.com/feeds/posts/default
@@ -88,7 +86,6 @@ plugins:
         - url:   https://perlancar.wordpress.com/ 
         - url:   http://cpanpr.tumblr.com/ 
         - url:   http://www.manchicken.com/tag/perl-2/feed/atom 
-        - url:   http://www.effectiveperlprogramming.com/feed
         - url:   http://www.blogger.com/feeds/240639029338918802/posts/default
         - url:   http://xaerxess.pl/blog/categories/perl/index.html
         - url:   http://blogs.perl.org/users/clinton_gormley/atom.xml
