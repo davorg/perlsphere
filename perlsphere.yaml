@@ -127,6 +127,7 @@ plugins:
         - url:   http://blogs.perl.org/users/joel_berger/atom.xml
           title: Joel Berger
         - url:   http://blog.kraih.com/rss
+        - url:   http://kevinhng86.iblog.website/category/my-posts/programming/perl/feed/
         - url:   http://perlgems.blogspot.com/
           title: Perl Gems
         - url:   http://log.perl.org/atom.xml
