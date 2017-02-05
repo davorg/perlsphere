@@ -36,7 +36,7 @@
               <div class="entry hentry" id="entry-[% entry.id_safe %]">
                 <h3 class="entry-header entry-title">
                 [% IF entry.source.title %]
-                <a class="entry-source" href="[% entry.source.link | html %]">[% entry.source.title.html %]</a>: 
+                <a class="entry-source" href="[% entry.source.link | html %]">[% entry.source.title.html %]</a>:
                 [% END %]
                 <a href="[% entry.permalink | html %]">[% entry.title.html %]</a>
                 </h3>
@@ -90,6 +90,17 @@
   <div style="padding: 0px 0px 15px 15px">
     Header image by <a href="http://flickr.com/photos/tambako/2548131714/">Tambako the Jaguar</a>. <a href="http://creativecommons.org/licenses/by-nd/2.0/deed.en">Some rights reserved.</a>
   </div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16101860-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
