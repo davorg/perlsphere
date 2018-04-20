@@ -81,7 +81,6 @@ plugins:
         - url:   http://ldami.blogspot.com/feeds/posts/default
         - url:   http://mechanicalrevolution.com/feed.xml
         - url:   http://www.dereferenced.com/feed/atom/
-        - url:   http://blog.endpoint.com/feeds/posts/default/-/perl
         - url:   http://blogs.perl.org/users/brian_d_foy/atom.xml 
         - url:   https://perlancar.wordpress.com/ 
         - url:   http://cpanpr.tumblr.com/ 
@@ -110,8 +109,6 @@ plugins:
           title: Brian Meeker
         - url:   http://froebe.net/blog/categories/perl/feed
           title: Jason Froebe
-        - url:   http://perl-node-interface.blogspot.com/feeds/posts/default
-          title: Tadeusz Sosnierz
         - url:   http://blogs.perl.org/users/mo/atom.xml
           title: MetaCPAN blog
         - url:   http://blog.moose.perl.org/atom.xml
