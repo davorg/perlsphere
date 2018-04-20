@@ -7,8 +7,7 @@ plugins:
   - module: Subscription::Config
     config:
       feed:
-        - url:   http://perlnews.org/feed/
-          title: Perl News
+        - url:   https://which-dwarf-are-you.blogspot.co.uk/search/label/Perl
         - url:   http://www.perl.com/pub/atom.xml
           title: Perl.com
         - url:   https://metacpan.org/feed/news
