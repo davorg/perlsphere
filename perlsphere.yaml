@@ -8,7 +8,7 @@ plugins:
     config:
       feed:
         - url:   https://which-dwarf-are-you.blogspot.co.uk/search/label/Perl
-        - url:   http://www.perl.com/pub/atom.xml
+        - url:   https://www.perl.com/index.xml
           title: Perl.com
         - url:   https://metacpan.org/feed/news
           title: MetaCPAN news
@@ -132,6 +132,7 @@ plugins:
           title: A Curious Programmer
         - url:   http://news.perlfoundation.org/atom.xml
           title: Perl Foundation News
+        - url:   https://dilfridge.blogspot.com/feeds/posts/default/-/perl/
 
   # Load 'Bundle' planet plugins
   - module: Bundle::Planet
