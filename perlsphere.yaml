@@ -139,7 +139,7 @@ plugins:
     config:
       duration: 10 days
       title: Perlsphere
-      description: The Perl firehose! The Web's biggest collection of Perl 5 blogs.<br />If you'd like your Perl 5 blog or tech blog's Perl category to appear here, send mail to &#108;&#101;&#111;&#64;&#99;&#117;&#99;&#107;&#111;&#111;&#46;&#111;&#114;&#103;<br />(Please have several posts already).
+      description: The Perl firehose! The Web's biggest collection of Perl 5 blogs.<br />If you'd like your Perl 5 blog or tech blog's Perl category to appear here, open a <a href="https://github.com/ranguard/perlsphere/issues">issue</a> or <a href="https://github.com/ranguard/perlsphere/blob/master/perlsphere.yaml">Pull request</a><br />(Please have several posts already).
       dir: /var/www/perlsphere.net/
       url: http://perlsphere.net/
       theme: sixapart-std
