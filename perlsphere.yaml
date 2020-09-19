@@ -134,7 +134,7 @@ plugins:
           title: Perl Foundation News
         - url:   https://dilfridge.blogspot.com/feeds/posts/default/-/perl/
           title: Gene Boggs (ology)
-        - url:   http://techn.ology.net/tag/perl/
+        - url:   http://techn.ology.net/tag/perl/feed/
 
   # Load 'Bundle' planet plugins
   - module: Bundle::Planet
